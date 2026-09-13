@@ -1,6 +1,6 @@
 # Florida Education Data
 
-A repository of transformed  and combined Florida Department of Education datasets
+A repository of transformed  and combined Florida education related datasets
 
 ## Purpose
 
@@ -8,7 +8,7 @@ Each year school district finance officers in Florida must create budgets in acc
 
 ## Tutorials & References
 
-1. [Download & extract repository ZIP file](/tutorials/download_repository.md)
+1. [Download &amp; extract repository ZIP file](/tutorials/download_repository.md)
 2. [Import data to Excel with Power Query](/tutorials/excel_import_to_pivot.md)
 3. [Data sources used](/references/sources.md)
 4. [Explanation of transformation techniques used](/references/data_transformation_processes.md)

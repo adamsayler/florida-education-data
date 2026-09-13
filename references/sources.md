@@ -25,3 +25,5 @@ The COFTE data are compiled from Excel datasets.
 1. **[School District CCD Directory](https://educationdata.urban.org/documentation/school-districts.html#ccd_directory)**: The Urban Institute's Education Data Portal provides repository access to the [National Center for Education Statistics’ (NCES)](https://nces.ed.gov/) [Common Core of Data (CCD)](https://nces.ed.gov/ccd/). These data contain information regarding school districts and schools throughout the United States. The set transformed here contains Florida only data.
 
 ## Federal Demographic
+
+1. **[Small Area Income and Poverty Estimates (SAIPE)](https://educationdata.urban.org/documentation/school-districts.html#saipe_poverty-estimates)**: The Urban Institute's Education Data Portal provides repository access to the [Small Area Income and Poverty Estimates (SAIPE) Program](https://www.census.gov/programs-surveys/saipe.html) from the [U.S. Census Bureau](https://www.census.gov/programs-surveys/saipe/data.html).
