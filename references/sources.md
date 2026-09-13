@@ -14,10 +14,14 @@ The COFTE data are compiled from Excel datasets.
 
 4. **[Membership by School by Grade: Enrollment](https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml)**: Provides student membership count datasets by school and by grade for the current school year. Previous year datasets are available at: [Archived Student Membership: Membership by Grade (PK-12)](https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/archive.stml).
 
+5. **[Students: Stability Rate](https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml)**: Provides most recent year datasets for stability rates by district and by school. Archive data is available at: [Archived Students: Stability Rates](https://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml).
+
 ## Florida Demographic
 
+1. **[FLHealthCharts - Birth Count Query System](https://www.flhealthcharts.gov/FLQUERY_New/Birth/Count)**: FLHealthCharts sources can be found at: [FLHeathCharts data sources](https://www.flhealthcharts.gov/Charts/documents/training/DataSources.pdf).
 
 ## Federal Education
 
+1. **[School District CCD Directory](https://educationdata.urban.org/documentation/school-districts.html#ccd_directory)**: The Urban Institute's Education Data Portal provides repository access to the [National Center for Education Statistics’ (NCES)](https://nces.ed.gov/) [Common Core of Data (CCD)](https://nces.ed.gov/ccd/). These data contain information regarding school districts and schools throughout the United States. The set transformed here contains Florida only data.
 
 ## Federal Demographic
