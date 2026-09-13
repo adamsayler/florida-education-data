@@ -2,9 +2,10 @@
 
 1. **Python libraries**: Python is a flexible programming language commonly used for data analysis. Libraries add tools for cleaning, transforming, analyzing, and visualizing data.
 
-   a. **Polars**: Polars is a fast DataFrame library designed for efficient data processing and analysis. It is especially useful for working with large datasets while using less memory and taking advantage of parallel processing.
-   b. **Pandas**: Pandas is a Python library for organizing, cleaning, and analyzing tabular data. It provides flexible tools for filtering, grouping, reshaping, and summarizing datasets.
-   c. **Marimo**: Marimo is a reactive Python notebook environment for interactive data analysis and development. It automatically updates dependent cells when code or data changes, helping keep notebooks consistent and reproducible.
+  -    **Polars**: Polars is a fast DataFrame library designed for efficient data processing and analysis. It is especially useful for working with large datasets while using less memory and taking advantage of parallel processing.
+  -    **Pandas**: Pandas is a Python library for organizing, cleaning, and analyzing tabular data. It provides flexible tools for filtering, grouping, reshaping, and summarizing datasets.
+  -    **Marimo**: Marimo is a reactive Python notebook environment for interactive data analysis and development. It automatically updates dependent cells when code or data changes, helping keep notebooks consistent and reproducible.
+
 2. **Database tools**: Microsoft SQL Server is a relational database system used to store, manage, and query structured data. It uses SQL to retrieve, update, and organize information across related tables. It also includes tools for security, reporting, automation, and large-scale data processing.
 3. **Power BI's Power Query**: Power Query is a data preparation tool used to connect, clean, and transform data from many sources. It records transformation steps so the process can be repeated automatically when data is refreshed. Power Query is commonly used in Excel and Power BI to prepare data for analysis and reporting.
 
